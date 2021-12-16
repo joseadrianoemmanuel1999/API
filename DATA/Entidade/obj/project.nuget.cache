@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "btXGO6dTpbrZkJmfPKDU06MxUlXxm4XaYZ4wNAA8MYsS0qGbLVBSpUu/FUyOeY3azuScdnb4tMkfjEC8MOq3+A==",
+  "success": true,
+  "projectFilePath": "/home/jose1999/visual/medium/API/DATA/Entidade/Entidade.csproj",
+  "expectedPackageFiles": [
+    "/home/jose1999/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
